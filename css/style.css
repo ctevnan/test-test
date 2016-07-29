@@ -29,3 +29,22 @@ border: none;
 border-radius:3px;
 padding: 5px;
 }
+textarea{
+width: 100%;
+height: 60px;
+margin-top: 10px;
+border: none;
+border-radius: 3px;
+padding: 5px;
+resize: none;
+}
+input[type=radio]{
+margin: 10px 5px 5px;
+}
+input[type=button]{
+width:100%;
+height: 40px;
+margin: 35px 0 30px;
+background-color:#f4a460;
+border: ;
+}
