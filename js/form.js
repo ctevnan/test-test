@@ -15,7 +15,7 @@ userID1: userID,
 currentDB1: currentDB,
 mode1: mode,
 halberdApiUrl1: halberdApiUrl
-}, function(data) {
+}, function (data) {
 alert(data);
 $('#form')[0].reset(); //reset form fields
 });
