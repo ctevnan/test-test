@@ -10,3 +10,5 @@ $query = mysql_query("insert into form_element(method, userID, currentDB, mode) 
 if($query){
 echo "Data submitted";
 }
+mysql_close($connection);
+?>
